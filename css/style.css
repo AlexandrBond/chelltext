@@ -11,7 +11,7 @@ body{
 .header{
     width: 100%;
     height: 1136px;
-    background: url(/img/bground.jpg) no-repeat center /cover;
+    background: url(../img/bground.jpg) no-repeat center /cover;
     border:01px solid;
     border-color: #000000;
     margin-bottom:23px;
